@@ -754,7 +754,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h1aF2bq0dUhCVW1w4HaJ" name="SIL&amp;HIL&amp;小样机测试方案">
-    <mxGraphModel dx="580" dy="1010" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="1263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1323,7 +1323,7 @@
         </UserObject>
         <UserObject label="SIL软件在环测试框架" mermaidId="n:SIL_Framework" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f9f9f9;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="SIL软件在环测试框架" id="Y9hTapEN5Im-4buli1Mc-216">
           <mxCell parent="Y9hTapEN5Im-4buli1Mc-215" style="html=1;whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f9f9f9;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="767" width="505" x="1604" y="1458" as="geometry" />
+            <mxGeometry height="767" width="505" x="2828" y="426" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="输入层" mermaidId="n:Input" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="输入层" id="Y9hTapEN5Im-4buli1Mc-217">
@@ -1407,7 +1407,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-235" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f4f8;strokeColor=#6c8ebf;html=1;fontColor=#1e40af;textDirection=vertical-rl;" value="" vertex="1">
-          <mxGeometry height="182" width="1020" x="1518" y="2351" as="geometry" />
+          <mxGeometry height="182" width="1020" x="1610" y="1509" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-236" parent="Y9hTapEN5Im-4buli1Mc-235" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="&lt;b&gt;自动化测试软件&lt;/b&gt;&lt;br&gt;Test Automation&lt;br&gt;(Python / TestStand)" vertex="1">
           <mxGeometry height="70" width="160" x="150" y="45" as="geometry" />
@@ -1428,7 +1428,7 @@
           <mxGeometry height="30" width="60" x="25" y="76" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-239" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f5e9;strokeColor=#82b366;html=1;fontColor=#1b5e20;textDirection=ltr;" value="" vertex="1">
-          <mxGeometry height="220" width="1020" x="1518" y="2533" as="geometry" />
+          <mxGeometry height="220" width="1020" x="1610" y="1691" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-240" parent="Y9hTapEN5Im-4buli1Mc-239" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;align=left;spacingLeft=10;" value="&lt;b&gt;HIL实时仿真机&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;[FPGA / CPU 实时内核]&lt;/font&gt;&lt;hr&gt;• 电网模型 (Grid Model)&lt;br&gt;• 电池储能模型 (Battery)&lt;br&gt;• PCS主电路拓扑 (IGBT/Filter)" vertex="1">
           <mxGeometry height="130" width="200" x="130" y="40" as="geometry" />
@@ -1443,7 +1443,7 @@
           <mxGeometry height="30" width="83" x="18" y="95" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-243" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#fff0e6;strokeColor=#d79b00;html=1;fontColor=#b25e00;" value="" vertex="1">
-          <mxGeometry height="170" width="1020" x="1518" y="2753" as="geometry" />
+          <mxGeometry height="170" width="1020" x="1610" y="1911" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-244" parent="Y9hTapEN5Im-4buli1Mc-243" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;align=left;spacingLeft=10;" value="&lt;b&gt;PCS主控板 (DSP/FPGA)&lt;/b&gt;&lt;br&gt;• 核心控制算法 (PQ/VF)&lt;br&gt;• 保护逻辑与状态机&lt;br&gt;• PWM脉冲调制输出" vertex="1">
           <mxGeometry height="90" width="200" x="130" y="45" as="geometry" />
@@ -1486,6 +1486,9 @@
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-317" edge="1" parent="1" source="Y9hTapEN5Im-4buli1Mc-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" target="Y9hTapEN5Im-4buli1Mc-237">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-322" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px; color: rgb(255, 51, 51);&quot;&gt;HIL测试平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="137" x="2073" y="1450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
