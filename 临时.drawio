@@ -1313,8 +1313,8 @@
         <mxCell id="Y9hTapEN5Im-4buli1Mc-175" edge="1" parent="1" source="Y9hTapEN5Im-4buli1Mc-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.847;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=6;strokeColor=#3399FF;" target="Y9hTapEN5Im-4buli1Mc-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9hTapEN5Im-4buli1Mc-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SIL测试&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="205" x="1933" y="291" as="geometry" />
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;SIL测试&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="288" x="1923" y="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
