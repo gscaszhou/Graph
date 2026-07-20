@@ -754,7 +754,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h1aF2bq0dUhCVW1w4HaJ" name="SIL&amp;HIL&amp;小样机测试方案">
-    <mxGraphModel dx="-87" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="580" dy="1010" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1346,6 +1346,9 @@
             <mxGeometry height="247" width="266" x="128" y="237" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-318" edge="1" parent="Y9hTapEN5Im-4buli1Mc-220" source="Y9hTapEN5Im-4buli1Mc-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Y9hTapEN5Im-4buli1Mc-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="虚拟环境/仿真平台&#xa;(Plant Model)" mermaidId="n:Environment" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dfd;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="虚拟环境/仿真平台&#xa;(Plant Model)" id="Y9hTapEN5Im-4buli1Mc-221">
           <mxCell parent="Y9hTapEN5Im-4buli1Mc-220" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dfd;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="73" width="196" x="35" y="45" as="geometry" />
@@ -1354,13 +1357,6 @@
         <UserObject label="仿真求解器" mermaidId="n:Solver" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="仿真求解器" id="Y9hTapEN5Im-4buli1Mc-222">
           <mxCell parent="Y9hTapEN5Im-4buli1Mc-220" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="54" width="140" x="63" y="168" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" mermaidId="e:Environment-&gt;Solver#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.54;exitY=0.56;entryX=0.55;entryY=0;" mermaidBaseValue="" id="Y9hTapEN5Im-4buli1Mc-223">
-          <mxCell edge="1" parent="Y9hTapEN5Im-4buli1Mc-220" source="Y9hTapEN5Im-4buli1Mc-221" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.54;exitY=0.56;entryX=0.55;entryY=0;rounded=0;" target="Y9hTapEN5Im-4buli1Mc-222">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
           </mxCell>
         </UserObject>
         <UserObject label="分析层" mermaidId="n:Analysis" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="分析层" id="Y9hTapEN5Im-4buli1Mc-224">
@@ -1410,7 +1406,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="Y9hTapEN5Im-4buli1Mc-235" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f4f8;strokeColor=#6c8ebf;html=1;fontColor=#1e40af;" value="&lt;b&gt;上位机管理层 (Host PC Layer)&lt;/b&gt;" vertex="1">
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-235" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f4f8;strokeColor=#6c8ebf;html=1;fontColor=#1e40af;textDirection=vertical-rl;" value="" vertex="1">
           <mxGeometry height="182" width="1020" x="1518" y="2351" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-236" parent="Y9hTapEN5Im-4buli1Mc-235" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="&lt;b&gt;自动化测试软件&lt;/b&gt;&lt;br&gt;Test Automation&lt;br&gt;(Python / TestStand)" vertex="1">
@@ -1428,7 +1424,10 @@
             <mxPoint x="429" y="79.4699999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9hTapEN5Im-4buli1Mc-239" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f5e9;strokeColor=#82b366;html=1;fontColor=#1b5e20;textDirection=ltr;" value="&lt;b&gt;HIL实时仿真与信号调理层&lt;/b&gt;" vertex="1">
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-319" parent="Y9hTapEN5Im-4buli1Mc-235" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="上位机层" vertex="1">
+          <mxGeometry height="30" width="60" x="25" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-239" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#e8f5e9;strokeColor=#82b366;html=1;fontColor=#1b5e20;textDirection=ltr;" value="" vertex="1">
           <mxGeometry height="220" width="1020" x="1518" y="2533" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-240" parent="Y9hTapEN5Im-4buli1Mc-239" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;align=left;spacingLeft=10;" value="&lt;b&gt;HIL实时仿真机&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;[FPGA / CPU 实时内核]&lt;/font&gt;&lt;hr&gt;• 电网模型 (Grid Model)&lt;br&gt;• 电池储能模型 (Battery)&lt;br&gt;• PCS主电路拓扑 (IGBT/Filter)" vertex="1">
@@ -1440,7 +1439,10 @@
         <mxCell id="Y9hTapEN5Im-4buli1Mc-242" parent="Y9hTapEN5Im-4buli1Mc-239" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;align=left;spacingLeft=10;" value="&lt;b&gt;故障注入单元 (FIU)&lt;/b&gt;&lt;br&gt;&lt;hr&gt;• 模拟断线故障&lt;br&gt;• 模拟信号短路&lt;br&gt;• 阻抗异常注入" vertex="1">
           <mxGeometry height="130" width="160" x="720" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9hTapEN5Im-4buli1Mc-243" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#fff0e6;strokeColor=#d79b00;html=1;fontColor=#b25e00;" value="&lt;b&gt;PCS控制器层 (DUT)&lt;/b&gt;" vertex="1">
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-320" parent="Y9hTapEN5Im-4buli1Mc-239" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="HIL仿真机&lt;br&gt;信号调理层" vertex="1">
+          <mxGeometry height="30" width="83" x="18" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-243" parent="1" style="swimlane;horizontal=0;startSize=110;fillColor=#fff0e6;strokeColor=#d79b00;html=1;fontColor=#b25e00;" value="" vertex="1">
           <mxGeometry height="170" width="1020" x="1518" y="2753" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-244" parent="Y9hTapEN5Im-4buli1Mc-243" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;align=left;spacingLeft=10;" value="&lt;b&gt;PCS主控板 (DSP/FPGA)&lt;/b&gt;&lt;br&gt;• 核心控制算法 (PQ/VF)&lt;br&gt;• 保护逻辑与状态机&lt;br&gt;• PWM脉冲调制输出" vertex="1">
@@ -1454,6 +1456,9 @@
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-246" parent="Y9hTapEN5Im-4buli1Mc-243" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;align=left;spacingLeft=10;" value="&lt;b&gt;通讯接口模块&lt;/b&gt;&lt;br&gt;• CAN通讯&lt;br&gt;• Modbus / TCP&lt;br&gt;• 光纤同步接口" vertex="1">
           <mxGeometry height="90" width="160" x="720" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9hTapEN5Im-4buli1Mc-321" parent="Y9hTapEN5Im-4buli1Mc-243" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="控制板+软件" vertex="1">
+          <mxGeometry height="30" width="83" x="17" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Y9hTapEN5Im-4buli1Mc-249" edge="1" parent="1" source="Y9hTapEN5Im-4buli1Mc-240" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2b5797;strokeWidth=1.5;" target="Y9hTapEN5Im-4buli1Mc-241">
           <mxGeometry relative="1" as="geometry" />
