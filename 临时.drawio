@@ -1,116 +1,4 @@
 <mxfile host="app.diagrams.net" pages="4">
-  <diagram name="Page-1" id="yJXxDQ2Hg5-Q3f_0AOA0">
-    <mxGraphModel dx="1045" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-87" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" value="">
-          <mxGeometry height="100" width="100" x="-23" y="135.5" as="geometry">
-            <Array as="points">
-              <mxPoint x="1217" y="506.5" />
-            </Array>
-            <mxPoint x="1237" y="446.5" as="sourcePoint" />
-            <mxPoint x="97" y="96.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-88" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" value="">
-          <mxGeometry height="100" width="100" x="-23" y="135.5" as="geometry">
-            <Array as="points">
-              <mxPoint x="1217" y="536.5" />
-            </Array>
-            <mxPoint x="1237" y="446.5" as="sourcePoint" />
-            <mxPoint x="97" y="96.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-89" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" value="">
-          <mxGeometry height="100" width="100" x="-23" y="135.5" as="geometry">
-            <Array as="points">
-              <mxPoint x="1217" y="586.5" />
-            </Array>
-            <mxPoint x="1237" y="446.5" as="sourcePoint" />
-            <mxPoint x="97" y="96.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SST软件根技术" vertex="1">
-          <mxGeometry height="42" width="120" x="320" y="219" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-108" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
-          <mxGeometry relative="1" width="80" as="geometry">
-            <Array as="points" />
-            <mxPoint x="78.22224934895833" y="300" as="sourcePoint" />
-            <mxPoint x="760" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-109" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;" value="">
-          <mxGeometry relative="1" width="80" as="geometry">
-            <Array as="points" />
-            <mxPoint x="380" y="261" as="sourcePoint" />
-            <mxPoint x="380" y="301" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MMC拓扑" vertex="1">
-          <mxGeometry height="42" width="80" x="190" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="交流侧适应性" vertex="1">
-          <mxGeometry height="42" width="80" x="320" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DAB拓扑" vertex="1">
-          <mxGeometry height="42" width="80" x="480" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LLC/CLLC拓扑" vertex="1">
-          <mxGeometry height="42" width="120" x="600" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="直流侧适应性" vertex="1">
-          <mxGeometry height="42" width="120" x="760" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="N+X冗余" vertex="1">
-          <mxGeometry height="42" width="120" x="920" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="fCmdW6MMkwJ5almj5v2a-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="人工智能AI技术" vertex="1">
-          <mxGeometry height="42" width="120" x="1110" y="341" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MMC拓扑" vertex="1">
-          <mxGeometry height="40" width="400" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CHB拓扑" vertex="1">
-          <mxGeometry height="42" width="120" x="-240" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="200" width="120" x="-240" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-96" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="200" width="130" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-91" parent="ZQ6yFywC5gvEC6CdW5wy-96" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="200" width="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-92" parent="ZQ6yFywC5gvEC6CdW5wy-96" style="rounded=0;whiteSpace=wrap;html=1;direction=north;flipV=0;legacyAnchorPoints=0;flipH=0;textDirection=vertical-lr;" value="&lt;div&gt;相间均衡&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="40" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-94" parent="ZQ6yFywC5gvEC6CdW5wy-96" style="rounded=0;whiteSpace=wrap;html=1;direction=north;flipV=0;legacyAnchorPoints=0;flipH=0;textDirection=vertical-lr;" value="相内均衡" vertex="1">
-          <mxGeometry height="140" width="40" x="90" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-95" parent="ZQ6yFywC5gvEC6CdW5wy-96" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;直流侧电容电压均衡&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="5" y="6" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="200" width="130" x="200" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=north;flipV=0;legacyAnchorPoints=0;flipH=0;textDirection=vertical-lr;strokeWidth=0;dashed=1;strokeColor=none;verticalAlign=top;" value="&lt;div&gt;抑制二倍频电流&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="40" x="245" y="580" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-101" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;环流抑制技术&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="205" y="526" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-102" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;环流抑制技术&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="-240" y="526" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ6yFywC5gvEC6CdW5wy-105" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=top;rounded=0;textDirection=vertical-lr;fontColor=default;" value="&lt;span style=&quot;text-align: left;&quot;&gt;相内均衡&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;相间均衡&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;模块内部均衡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="120" x="-240" y="600" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="Hz-p3Fujl09t9t7Z2VhJ" name="竞争力">
     <mxGraphModel dx="815" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,6 +637,35 @@
         </mxCell>
         <mxCell id="qa6T4KU4NO7NSaA1Swah-205" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF8000;" value="C相&lt;br&gt;光纤通信网络" vertex="1">
           <mxGeometry height="30" width="95" x="1025" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TWnsISMWtCqPbM_wY3vN" name="软件架构">
+    <mxGraphModel dx="937" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-1" parent="1" style="triangle;direction=north;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=bottom;spacingBottom=15;fontColor=#333333;html=1;" value="&lt;b&gt;用户接入与体验层 (Presentation &amp;amp; Access)&lt;/b&gt;&lt;br&gt;App / Web / H5 / 小程序 / 第三方开放接口" vertex="1">
+          <mxGeometry height="120" width="600" x="100" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontColor=#333333;html=1;" value="&lt;b&gt;业务编排与网关层 (Orchestration &amp;amp; Gateway)&lt;/b&gt;&lt;br&gt;API 网关 / 统一认证 / 动态路由 / 业务流程编排 (BPMN)" vertex="1">
+          <mxGeometry height="60" width="600" x="100" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacingLeft=15;spacingTop=15;fontColor=#333333;html=1;" value="&lt;b&gt;核心业务服务域&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 用户与账户中心&lt;br&gt;• 商品与库存服务&lt;br&gt;• 订单与交易系统&lt;br&gt;• 支付与清算模块" vertex="1">
+          <mxGeometry height="200" width="170" x="110" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;spacingLeft=15;spacingTop=15;fontColor=#333333;html=1;" value="&lt;b&gt;数据与智能域&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 实时数据计算&lt;br&gt;• 离线数据分析&lt;br&gt;• 智能推荐引擎&lt;br&gt;• 搜索引擎服务" vertex="1">
+          <mxGeometry height="200" width="170" x="315" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;spacingLeft=15;spacingTop=15;fontColor=#333333;html=1;" value="&lt;b&gt;安全与合规域&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 身份与访问控制&lt;br&gt;• 数据加密与脱敏&lt;br&gt;• 风控与防刷系统&lt;br&gt;• 行为审计与日志" vertex="1">
+          <mxGeometry height="200" width="170" x="520" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontColor=#333333;html=1;" value="&lt;b&gt;公共技术服务层 (Common Tech Services)&lt;/b&gt;&lt;br&gt;分布式缓存 (Redis) / 消息队列 (Kafka) / 配置中心 (Nacos) / 分布式锁" vertex="1">
+          <mxGeometry height="60" width="600" x="100" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;html=1;" value="&lt;b&gt;基础设施与云底座 (Infrastructure &amp;amp; Cloud)&lt;/b&gt;&lt;br&gt;物理服务器 / 虚拟化 (VMware) / 容器云 (Kubernetes) / 混合云管理 / 持续集成 (DevOps)" vertex="1">
+          <mxGeometry height="80" width="600" x="100" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
