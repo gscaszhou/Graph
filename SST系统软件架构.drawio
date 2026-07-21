@@ -642,7 +642,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TWnsISMWtCqPbM_wY3vN" name="软件架构">
-    <mxGraphModel dx="1671" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,11 +652,11 @@
         <mxCell id="mOw5xbMdymg9Q3MM6HXh-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontColor=#333333;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;整机主控制板(AC2DC)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="400" x="80" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="mOw5xbMdymg9Q3MM6HXh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacingLeft=15;spacingTop=15;fontColor=#333333;html=1;" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 用户与账户中心&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 商品与库存服务&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 订单与交易系统&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 支付与清算模块&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
-          <mxGeometry height="200" width="400" x="80" y="480" as="geometry" />
+        <mxCell id="mOw5xbMdymg9Q3MM6HXh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacingLeft=15;spacingTop=15;fontColor=#333333;html=1;" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• AC2DC电路拓扑控制算法（CHB/MMC等）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 整机功能与保护&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 整机通信与交互，北向为中位机，南向为功率单元&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 整机历史数据记录，运行数据与故障数据&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="160" width="400" x="80" y="480" as="geometry" />
         </mxCell>
         <mxCell id="mOw5xbMdymg9Q3MM6HXh-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;spacingLeft=15;spacingTop=15;fontColor=#333333;html=1;" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 实时数据计算&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 离线数据分析&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 智能推荐引擎&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;• 搜索引擎服务&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
-          <mxGeometry height="200" width="400" x="520" y="480" as="geometry" />
+          <mxGeometry height="160" width="400" x="520" y="480" as="geometry" />
         </mxCell>
         <mxCell id="mOw5xbMdymg9Q3MM6HXh-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;html=1;" value="" vertex="1">
           <mxGeometry height="160" width="240" x="80" y="760" as="geometry" />
