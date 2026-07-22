@@ -2046,11 +2046,11 @@
         <mxCell id="tK8VxSzwC9FKwgZews4L-6" edge="1" parent="1" source="tK8VxSzwC9FKwgZews4L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tK8VxSzwC9FKwgZews4L-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tK8VxSzwC9FKwgZews4L-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统构成" vertex="1">
+        <mxCell id="tK8VxSzwC9FKwgZews4L-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统构成介绍" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="200" as="geometry" />
         </mxCell>
         <mxCell id="tK8VxSzwC9FKwgZews4L-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="新能源耦合场景&lt;div&gt;10kV -&amp;gt; 35kV&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="80" as="geometry" />
+          <mxGeometry height="60" width="120" x="700" y="80" as="geometry" />
         </mxCell>
         <mxCell id="tK8VxSzwC9FKwgZews4L-8" edge="1" parent="1" source="tK8VxSzwC9FKwgZews4L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tK8VxSzwC9FKwgZews4L-7" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2072,6 +2072,9 @@
         </mxCell>
         <mxCell id="tK8VxSzwC9FKwgZews4L-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实现步骤" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="tK8VxSzwC9FKwgZews4L-15" parent="1" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;align=left;" value="与储能PCS系统进行差异对比&lt;div&gt;能源的根技术路线图&lt;br&gt;硬件平台技术路线图&lt;br&gt;哪些电路拓扑和能力是公司目前不具备的&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="310" x="440" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
