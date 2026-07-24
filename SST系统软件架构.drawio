@@ -3777,7 +3777,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yQDggz68j61csaE7MU5Q" name="数据中心电网掉电时逻辑图">
-    <mxGraphModel dx="2799" dy="-433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2119" dy="-297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
