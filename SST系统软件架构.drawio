@@ -3777,7 +3777,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yQDggz68j61csaE7MU5Q" name="数据中心电网掉电时逻辑图">
-    <mxGraphModel dx="1135" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3900,6 +3900,59 @@
         </mxCell>
         <mxCell id="fqtC-DttobV-sFChJLOG-36" edge="1" parent="1" source="fqtC-DttobV-sFChJLOG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#c0392b;strokeWidth=1.5;dashed=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="fqtC-DttobV-sFChJLOG-23" value="&lt;b&gt;3. 开启放电指令&lt;/b&gt;">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Solar_Panel.svg" value="" vertex="1">
+          <mxGeometry height="98" width="98" x="1360" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_1-2945/battery-full-645.svg" value="" vertex="1">
+          <mxGeometry height="256" width="256" x="1370" y="117" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-4" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font size=&quot;4&quot;&gt;飞轮储能系统 (FESS) 工作原理图&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#666666&quot;&gt;Flywheel Energy Storage System Principle&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="780" x="300" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;" value="&lt;b&gt;外部电网&lt;/b&gt;&lt;br&gt;Power Grid&lt;br&gt;&lt;font size=&quot;1&quot; color=&quot;#555555&quot;&gt;(双向电能传输)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="140" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" value="&lt;b&gt;双向变流器&lt;/b&gt;&lt;br&gt;Bi-directional Converter&lt;br&gt;&lt;font size=&quot;1&quot; color=&quot;#555555&quot;&gt;(整流/逆变/变频)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="410" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;align=center;html=1;" value="&lt;b&gt;电动 / 发电机&lt;/b&gt;&lt;br&gt;Motor / Generator&lt;br&gt;&lt;font size=&quot;1&quot; color=&quot;#555555&quot;&gt;(电能 ↔ 机械能)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="670" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-8" parent="1" style="swimlane;startSize=24;fillColor=#f5f5f5;strokeColor=#cccccc;dashed=1;html=1;align=center;" value="真空保护罩 (Vacuum Chamber)" vertex="1">
+          <mxGeometry height="280" width="270" x="970" y="1180" as="geometry">
+            <mxRectangle height="30" width="210" x="1010" y="1180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-9" parent="Z4VAnT76RIDiM7YLy_lw-8" style="rounded=1;fillColor=#aeaeae;strokeColor=#707070;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="10" x="115" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-10" parent="Z4VAnT76RIDiM7YLy_lw-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;上部磁悬浮轴承&lt;/b&gt;&lt;br&gt;Magnetic Bearing&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-11" parent="Z4VAnT76RIDiM7YLy_lw-8" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#bac8d3;strokeColor=#23445d;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;高速飞轮转子&lt;/b&gt;&lt;br&gt;Flywheel Rotor&lt;br&gt;&lt;font color=&quot;#333333&quot;&gt;(高强度碳纤维/钢制)&lt;br&gt;储存动能: E&lt;sub&gt;k&lt;/sub&gt; = 1/2 Jω²&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-12" parent="Z4VAnT76RIDiM7YLy_lw-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;下部磁悬浮轴承&lt;/b&gt;&lt;br&gt;Magnetic Bearing&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="50" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-13" parent="Z4VAnT76RIDiM7YLy_lw-8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ff6600;fontStyle=1" value="🔄 高速旋转" vertex="1">
+          <mxGeometry height="30" width="90" x="115" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#dddddd;align=left;valign=top;spacingLeft=10;spacingRight=10;spacingTop=5;html=1;" value="&lt;b&gt;储能原理说明：&lt;/b&gt;&lt;br&gt;1. &lt;b&gt;充电(储能)&lt;/b&gt;：电网电能驱动电机作为电动机运行，带动飞轮加速旋转，将电能转化为飞轮的&lt;font color=&quot;#ff6600&quot;&gt;&lt;b&gt;旋转动能&lt;/b&gt;&lt;/font&gt;。&lt;br&gt;2. &lt;b&gt;能量维持&lt;/b&gt;：在真空和磁悬浮无摩擦环境下，飞轮以极低损耗保持高速自转。&lt;br&gt;3. &lt;b&gt;放电(释能)&lt;/b&gt;：需要电能时，飞轮减速释放动能，驱动电机作为发电机运行，经变流器向电网输送电能。" vertex="1">
+          <mxGeometry height="110" width="790" x="300" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-15" edge="1" parent="1" source="Z4VAnT76RIDiM7YLy_lw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=classic;endArrow=classic;strokeWidth=2;strokeColor=#0050ef;labelBackgroundColor=#ffffff;" target="Z4VAnT76RIDiM7YLy_lw-6" value="双向电能">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-16" edge="1" parent="1" source="Z4VAnT76RIDiM7YLy_lw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=classic;endArrow=classic;strokeWidth=2;strokeColor=#0050ef;labelBackgroundColor=#ffffff;" target="Z4VAnT76RIDiM7YLy_lw-7" value="变频交流电">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4VAnT76RIDiM7YLy_lw-17" edge="1" parent="1" source="Z4VAnT76RIDiM7YLy_lw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=classic;endArrow=classic;strokeWidth=2;strokeColor=#ff6600;labelBackgroundColor=#ffffff;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Z4VAnT76RIDiM7YLy_lw-11" value="机械能传递&lt;br&gt;(同轴联结)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1320" as="sourcePoint" />
+            <mxPoint x="1125" y="1320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
