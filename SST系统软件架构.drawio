@@ -4205,7 +4205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qp_-T06TfTJDmtmlBYRe" name="数据中心工作模式-SST-DC">
-    <mxGraphModel dx="660" dy="195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="288" dy="76" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4317,7 +4317,7 @@
         <mxCell id="lGLsKgUoAUBPu3Afd2ab-13" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="39.75" width="50" x="3840" y="600.25" as="geometry" />
         </mxCell>
-        <mxCell id="lGLsKgUoAUBPu3Afd2ab-15" edge="1" parent="lGLsKgUoAUBPu3Afd2ab-13" source="lGLsKgUoAUBPu3Afd2ab-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF4809;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;">
+        <mxCell id="lGLsKgUoAUBPu3Afd2ab-15" edge="1" parent="lGLsKgUoAUBPu3Afd2ab-13" source="lGLsKgUoAUBPu3Afd2ab-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF4809;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;flowAnimationDuration=250;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="25" y="-40.25" as="targetPoint" />
           </mxGeometry>
