@@ -3888,7 +3888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yQDggz68j61csaE7MU5Q" name="数据中心工作模式-AC-UPS">
-    <mxGraphModel dx="3237" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2434" dy="-291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3951,7 +3951,7 @@
         <mxCell id="troekVXDnja9J_uijHqC-77" edge="1" parent="kw9cXTlfBfG2A1IVhyhr-33" source="troekVXDnja9J_uijHqC-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;" target="troekVXDnja9J_uijHqC-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="troekVXDnja9J_uijHqC-57" parent="kw9cXTlfBfG2A1IVhyhr-33" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="troekVXDnja9J_uijHqC-57" parent="kw9cXTlfBfG2A1IVhyhr-33" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="1140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="troekVXDnja9J_uijHqC-58" edge="1" parent="kw9cXTlfBfG2A1IVhyhr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#666666;entryX=1;entryY=0.88;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" target="troekVXDnja9J_uijHqC-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;旁路通路AC&lt;/font&gt;">
@@ -4042,7 +4042,7 @@
         <mxCell id="enIiOq7jgQEM4BzW7AKh-5" edge="1" parent="enIiOq7jgQEM4BzW7AKh-1" source="enIiOq7jgQEM4BzW7AKh-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;" target="enIiOq7jgQEM4BzW7AKh-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enIiOq7jgQEM4BzW7AKh-6" parent="enIiOq7jgQEM4BzW7AKh-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="enIiOq7jgQEM4BzW7AKh-6" parent="enIiOq7jgQEM4BzW7AKh-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="1140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="enIiOq7jgQEM4BzW7AKh-7" edge="1" parent="enIiOq7jgQEM4BzW7AKh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#666666;entryX=1;entryY=0.88;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" target="enIiOq7jgQEM4BzW7AKh-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;旁路通路AC&lt;/font&gt;">
@@ -4142,7 +4142,7 @@
         <mxCell id="enIiOq7jgQEM4BzW7AKh-54" edge="1" parent="enIiOq7jgQEM4BzW7AKh-50" source="enIiOq7jgQEM4BzW7AKh-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;" target="enIiOq7jgQEM4BzW7AKh-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enIiOq7jgQEM4BzW7AKh-55" parent="enIiOq7jgQEM4BzW7AKh-50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="enIiOq7jgQEM4BzW7AKh-55" parent="enIiOq7jgQEM4BzW7AKh-50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="1140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="enIiOq7jgQEM4BzW7AKh-56" edge="1" parent="enIiOq7jgQEM4BzW7AKh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#666666;entryX=1;entryY=0.88;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" target="enIiOq7jgQEM4BzW7AKh-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;旁路通路AC&lt;/font&gt;">
@@ -4236,7 +4236,7 @@
         <mxCell id="ealBcBQgxI7vbQTF7_jZ-6" edge="1" parent="ealBcBQgxI7vbQTF7_jZ-2" source="ealBcBQgxI7vbQTF7_jZ-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;" target="ealBcBQgxI7vbQTF7_jZ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ealBcBQgxI7vbQTF7_jZ-7" parent="ealBcBQgxI7vbQTF7_jZ-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="ealBcBQgxI7vbQTF7_jZ-7" parent="ealBcBQgxI7vbQTF7_jZ-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="1140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="ealBcBQgxI7vbQTF7_jZ-8" edge="1" parent="ealBcBQgxI7vbQTF7_jZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#FF4809;entryX=1;entryY=0.88;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;curved=1;" target="ealBcBQgxI7vbQTF7_jZ-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;旁路通路AC&lt;/font&gt;">
@@ -4316,7 +4316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qp_-T06TfTJDmtmlBYRe" name="数据中心工作模式-SST-DC">
-    <mxGraphModel dx="865" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-154" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4343,7 +4343,7 @@
         <mxCell id="BM04_ZQP3RTDfLpU-4_d-5" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-71" source="BM04_ZQP3RTDfLpU-4_d-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimationDuration=300;" target="BM04_ZQP3RTDfLpU-4_d-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM04_ZQP3RTDfLpU-4_d-6" parent="0nPdLwWZpgpxMsFs8p4w-71" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="BM04_ZQP3RTDfLpU-4_d-6" parent="0nPdLwWZpgpxMsFs8p4w-71" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="2060" y="100.25" as="geometry" />
         </mxCell>
         <mxCell id="BM04_ZQP3RTDfLpU-4_d-7" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#666666;entryX=1;entryY=0.88;entryDx=0;entryDy=0;" target="BM04_ZQP3RTDfLpU-4_d-14" value="">
@@ -4505,7 +4505,7 @@
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-78" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-72" source="0nPdLwWZpgpxMsFs8p4w-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;flowAnimationDuration=300;" target="0nPdLwWZpgpxMsFs8p4w-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0nPdLwWZpgpxMsFs8p4w-79" parent="0nPdLwWZpgpxMsFs8p4w-72" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="0nPdLwWZpgpxMsFs8p4w-79" parent="0nPdLwWZpgpxMsFs8p4w-72" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="2060" y="100.25" as="geometry" />
         </mxCell>
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-80" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#666666;entryX=1;entryY=0.88;entryDx=0;entryDy=0;" target="0nPdLwWZpgpxMsFs8p4w-87" value="">
@@ -4667,7 +4667,7 @@
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-122" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-116" source="0nPdLwWZpgpxMsFs8p4w-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimationDuration=300;" target="0nPdLwWZpgpxMsFs8p4w-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0nPdLwWZpgpxMsFs8p4w-123" parent="0nPdLwWZpgpxMsFs8p4w-116" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="0nPdLwWZpgpxMsFs8p4w-123" parent="0nPdLwWZpgpxMsFs8p4w-116" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="2060" y="100.25" as="geometry" />
         </mxCell>
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-124" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-116" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#666666;entryX=1;entryY=0.88;entryDx=0;entryDy=0;" target="0nPdLwWZpgpxMsFs8p4w-131" value="">
@@ -4829,7 +4829,7 @@
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-166" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" source="0nPdLwWZpgpxMsFs8p4w-167" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;flowAnimationDuration=300;" target="0nPdLwWZpgpxMsFs8p4w-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0nPdLwWZpgpxMsFs8p4w-167" parent="0nPdLwWZpgpxMsFs8p4w-160" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（AC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="0nPdLwWZpgpxMsFs8p4w-167" parent="0nPdLwWZpgpxMsFs8p4w-160" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;服务器电源（DC/DC）&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="2060" y="100.25" as="geometry" />
         </mxCell>
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-168" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#FF4809;entryX=1;entryY=0.12;entryDx=0;entryDy=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;flowAnimationDuration=300;" target="0nPdLwWZpgpxMsFs8p4w-175" value="">
@@ -4899,7 +4899,7 @@
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-181" parent="0nPdLwWZpgpxMsFs8p4w-160" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;充放电器&lt;/b&gt;&lt;br&gt;DC/DC&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1869" y="206.5" as="geometry" />
         </mxCell>
-        <mxCell id="0nPdLwWZpgpxMsFs8p4w-182" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" source="0nPdLwWZpgpxMsFs8p4w-184" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;flowAnimationDuration=300;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="0nPdLwWZpgpxMsFs8p4w-181">
+        <mxCell id="0nPdLwWZpgpxMsFs8p4w-182" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" source="0nPdLwWZpgpxMsFs8p4w-184" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;flowAnimationDuration=300;endArrow=classic;endFill=1;startArrow=none;startFill=0;" target="0nPdLwWZpgpxMsFs8p4w-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-183" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" source="0nPdLwWZpgpxMsFs8p4w-184" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF4809;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;flowAnimationDuration=300;" target="0nPdLwWZpgpxMsFs8p4w-167">
@@ -4908,7 +4908,7 @@
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-184" parent="0nPdLwWZpgpxMsFs8p4w-160" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;母线&lt;/b&gt;&lt;br&gt;DC BUS&lt;/font&gt;" vertex="1">
           <mxGeometry height="55" width="130" x="1864" y="102.75" as="geometry" />
         </mxCell>
-        <mxCell id="0nPdLwWZpgpxMsFs8p4w-185" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" source="0nPdLwWZpgpxMsFs8p4w-181" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;flowAnimationDuration=300;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="0nPdLwWZpgpxMsFs8p4w-180">
+        <mxCell id="0nPdLwWZpgpxMsFs8p4w-185" edge="1" parent="0nPdLwWZpgpxMsFs8p4w-160" source="0nPdLwWZpgpxMsFs8p4w-181" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF4809;flowAnimation=1;flowAnimationDuration=300;startArrow=none;startFill=0;endArrow=classic;endFill=1;" target="0nPdLwWZpgpxMsFs8p4w-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0nPdLwWZpgpxMsFs8p4w-186" parent="0nPdLwWZpgpxMsFs8p4w-160" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;电容&lt;/b&gt;&lt;br&gt;DC Cap&lt;/font&gt;" vertex="1">
