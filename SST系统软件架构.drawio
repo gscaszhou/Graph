@@ -5738,7 +5738,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GR68SbVQRfqWg4ACFfI0" name="状态机">
-    <mxGraphModel dx="851" dy="2065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="2164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7469,8 +7469,11 @@
         <mxCell id="93WtVu3acJQ8oelPs9tj-275" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="100" x="1068" y="-1230.9" as="geometry" />
         </mxCell>
-        <mxCell id="93WtVu3acJQ8oelPs9tj-399" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="1074" y="-1270" as="geometry" />
+        <mxCell id="93WtVu3acJQ8oelPs9tj-399" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="某个单元故障" vertex="1">
+          <mxGeometry height="30" width="80" x="1068" y="-1266" as="geometry" />
+        </mxCell>
+        <mxCell id="93WtVu3acJQ8oelPs9tj-400" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="快速切旁路&lt;div&gt;快速封锁PWM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1784" y="-1266" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
