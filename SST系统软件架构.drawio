@@ -6200,6 +6200,9 @@
         <mxCell id="VBfeYlCkOwsixUbHdVZo-239" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="固态断路器&lt;br&gt;旁路开关" vertex="1">
           <mxGeometry height="30" width="90" x="1669" y="-1225" as="geometry" />
         </mxCell>
+        <mxCell id="VBfeYlCkOwsixUbHdVZo-240" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;定义每个功率单元的工作状态&lt;/li&gt;&lt;li&gt;单个功率单元冗余功能切换时序&lt;/li&gt;&lt;li&gt;N+1冗余功能&lt;/li&gt;&lt;li&gt;N+3冗余功能&lt;/li&gt;&lt;li&gt;功率单元状态机-主从方式&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="261" x="1400" y="-1480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
