@@ -5061,7 +5061,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vbNkxnlQAZvZY2uj6_KA" name="热插拔">
-    <mxGraphModel dx="918" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6009,7 +6009,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VBfeYlCkOwsixUbHdVZo-186" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="79" x="1454" y="-1012.5" as="geometry" />
+          <mxGeometry height="60" width="79" x="1410" y="-1240" as="geometry" />
         </mxCell>
         <mxCell id="VBfeYlCkOwsixUbHdVZo-182" parent="VBfeYlCkOwsixUbHdVZo-186" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;direction=south;rounded=0;strokeColor=light-dark(#000000,#FF9090);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="60" width="16" x="63" as="geometry" />
@@ -6149,6 +6149,9 @@
             <mxPoint x="1620.1" y="-590" as="sourcePoint" />
             <mxPoint x="1620" y="-620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VBfeYlCkOwsixUbHdVZo-213" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="固态断路器&lt;br&gt;旁路开关" vertex="1">
+          <mxGeometry height="30" width="90" x="1310" y="-1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
