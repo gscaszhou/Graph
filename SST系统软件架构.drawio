@@ -13785,10 +13785,10 @@
           <mxGeometry height="139" width="408.5" x="-904.5" y="3551" as="geometry" />
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-379" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="651.7258408490397" width="1376.9674359489886" x="-3048" y="5507" as="geometry" />
+          <mxGeometry height="716.2468513040039" width="1386.4015682444847" x="-3048" y="5507" as="geometry" />
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-380" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="97" width="1376.9674359489886" as="geometry" />
+          <mxGeometry height="97" width="1386.4015682444847" as="geometry" />
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-381" parent="nd85jhhNl2mKpgz2wUEP-380" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;整机状态&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;整机主控制器&lt;/span&gt;" vertex="1">
           <mxGeometry height="97" width="265" as="geometry">
@@ -13796,167 +13796,167 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-382" parent="nd85jhhNl2mKpgz2wUEP-380" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;功率单元状态&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(40, 18, 208);&quot;&gt;单元主控制器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="97" width="269" x="265" as="geometry">
-            <mxRectangle height="97" width="269" as="alternateBounds" />
+          <mxGeometry height="97" width="278" x="265" as="geometry">
+            <mxRectangle height="97" width="278" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-383" parent="nd85jhhNl2mKpgz2wUEP-380" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;旁路模块状态&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(40, 18, 208);&quot;&gt;单元主控制器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="97" width="271" x="534" as="geometry">
+          <mxGeometry height="97" width="271" x="543" as="geometry">
             <mxRectangle height="97" width="271" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-384" parent="nd85jhhNl2mKpgz2wUEP-380" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;AC2DC模块状态&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(40, 18, 208);&quot;&gt;单元主控制器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="97" width="303" x="805" as="geometry">
+          <mxGeometry height="97" width="303" x="814" as="geometry">
             <mxRectangle height="97" width="303" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-385" parent="nd85jhhNl2mKpgz2wUEP-380" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;DC2DC模块状态&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 181, 112);&quot;&gt;单元从控制器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="97" width="269" x="1108" as="geometry">
+          <mxGeometry height="97" width="269" x="1117" as="geometry">
             <mxRectangle height="97" width="269" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-386" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="87" width="1376.9674359489886" y="97" as="geometry" />
+          <mxGeometry height="87" width="1386.4015682444847" y="97" as="geometry" />
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-387" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;待机&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;所有功率单元都在待机或者旁路状态&lt;br&gt;能正常执行开机动作&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-387" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;待机&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;所有功率单元都在待机或旁路状态&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;能正常执行开机动作&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="87" width="265" as="geometry">
             <mxRectangle height="87" width="265" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-388" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="待机" vertex="1">
-          <mxGeometry height="87" width="269" x="265" as="geometry">
-            <mxRectangle height="87" width="269" as="alternateBounds" />
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-388" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;待机&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;内部所有模块都在待机状态&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;能正常执行主控的指令&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="87" width="278" x="265" as="geometry">
+            <mxRectangle height="87" width="278" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-389" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="待机" vertex="1">
-          <mxGeometry height="87" width="271" x="534" as="geometry">
+          <mxGeometry height="87" width="271" x="543" as="geometry">
             <mxRectangle height="87" width="271" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-390" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="待机" vertex="1">
-          <mxGeometry height="87" width="303" x="805" as="geometry">
+          <mxGeometry height="87" width="303" x="814" as="geometry">
             <mxRectangle height="87" width="303" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-391" parent="nd85jhhNl2mKpgz2wUEP-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="待机" vertex="1">
-          <mxGeometry height="87" width="269" x="1108" as="geometry">
+          <mxGeometry height="87" width="269" x="1117" as="geometry">
             <mxRectangle height="87" width="269" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-392" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="71" width="1376.9674359489886" y="184" as="geometry" />
+          <mxGeometry height="99" width="1386.4015682444847" y="184" as="geometry" />
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-393" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 软启动&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;从交流侧或者直流侧进行启动&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;各级电压逐步上升的全过程&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="71" width="265" as="geometry">
-            <mxRectangle height="71" width="265" as="alternateBounds" />
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-393" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;软启动&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;所有功率单元都在软启动或旁路状态&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;从交流侧或者直流侧进行启动&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;各级电压逐步上升的全过程&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="99" width="265" as="geometry">
+            <mxRectangle height="99" width="265" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-394" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="软启动" vertex="1">
-          <mxGeometry height="71" width="269" x="265" as="geometry">
-            <mxRectangle height="71" width="269" as="alternateBounds" />
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-394" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;软启动&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;从交流侧或者直流侧进行启动&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;各级电压逐步上升的全过程&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="99" width="278" x="265" as="geometry">
+            <mxRectangle height="99" width="278" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-395" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="71" width="271" x="534" as="geometry">
-            <mxRectangle height="71" width="271" as="alternateBounds" />
+          <mxGeometry height="99" width="271" x="543" as="geometry">
+            <mxRectangle height="99" width="271" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-396" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="软启动" vertex="1">
-          <mxGeometry height="71" width="303" x="805" as="geometry">
-            <mxRectangle height="71" width="303" as="alternateBounds" />
+          <mxGeometry height="99" width="303" x="814" as="geometry">
+            <mxRectangle height="99" width="303" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-397" parent="nd85jhhNl2mKpgz2wUEP-392" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="软启动" vertex="1">
-          <mxGeometry height="71" width="269" x="1108" as="geometry">
-            <mxRectangle height="71" width="269" as="alternateBounds" />
+          <mxGeometry height="99" width="269" x="1117" as="geometry">
+            <mxRectangle height="99" width="269" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-398" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="111" width="1376.9674359489886" y="255" as="geometry" />
+          <mxGeometry height="120" width="1386.4015682444847" y="283" as="geometry" />
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-399" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;运行&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;所有功率单元都在运行或者旁路状态&lt;/span&gt;&lt;/div&gt;&lt;font size=&quot;1&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;能正常实现能量转换，闭环控制两侧电压/电流&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-399" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;运行&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;所有功率单元都在运行或旁路状态&lt;/span&gt;&lt;/div&gt;&lt;font size=&quot;1&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;能正常实现能量转换，闭环控制两侧电压/电流&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="265" as="geometry">
+            <mxRectangle height="120" width="265" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-400" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="运行&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;所有功率模块都在运行或旁路状态&lt;/span&gt;&lt;/div&gt;&lt;font size=&quot;1&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;能正常实现能量转换，闭环控制两侧电压/电流&lt;br&gt;可短时期封锁PWM波，保持运行状态&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="278" x="265" as="geometry">
+            <mxRectangle height="120" width="278" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-401" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="斩波" vertex="1">
+          <mxGeometry height="120" width="271" x="543" as="geometry">
+            <mxRectangle height="120" width="271" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-402" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="运行" vertex="1">
+          <mxGeometry height="120" width="303" x="814" as="geometry">
+            <mxRectangle height="120" width="303" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-403" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="运行" vertex="1">
+          <mxGeometry height="120" width="269" x="1117" as="geometry">
+            <mxRectangle height="120" width="269" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-404" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;align=left;" value="" vertex="1">
+          <mxGeometry height="95" width="1386.4015682444847" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-405" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=center;fontFamily=Helvetica;fontColor=default;fontStyle=0;verticalAlign=middle;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;故障&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;所有功率单元都处于故障状态&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;直流与交流都电气断开&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="265" as="geometry">
+            <mxRectangle height="95" width="265" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-406" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;功率模块不能正常运行或者旁路&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;直流与交流都电气断开，交流接触器？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="278" x="265" as="geometry">
+            <mxRectangle height="95" width="278" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-407" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
+          <mxGeometry height="95" width="271" x="543" as="geometry">
+            <mxRectangle height="95" width="271" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-408" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
+          <mxGeometry height="95" width="303" x="814" as="geometry">
+            <mxRectangle height="95" width="303" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-409" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
+          <mxGeometry height="95" width="269" x="1117" as="geometry">
+            <mxRectangle height="95" width="269" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-410" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="111" width="1386.4015682444847" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-411" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
           <mxGeometry height="111" width="265" as="geometry">
             <mxRectangle height="111" width="265" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-400" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="运行" vertex="1">
-          <mxGeometry height="111" width="269" x="265" as="geometry">
-            <mxRectangle height="111" width="269" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-401" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="斩波" vertex="1">
-          <mxGeometry height="111" width="271" x="534" as="geometry">
-            <mxRectangle height="111" width="271" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-402" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="运行" vertex="1">
-          <mxGeometry height="111" width="303" x="805" as="geometry">
-            <mxRectangle height="111" width="303" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-403" parent="nd85jhhNl2mKpgz2wUEP-398" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="运行" vertex="1">
-          <mxGeometry height="111" width="269" x="1108" as="geometry">
-            <mxRectangle height="111" width="269" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-404" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="91" width="1376.9674359489886" y="366" as="geometry" />
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-405" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;故障&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;所有功率单元都处于故障状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;直流与交流都电气断开&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="91" width="265" as="geometry">
-            <mxRectangle height="91" width="265" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-406" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
-          <mxGeometry height="91" width="269" x="265" as="geometry">
-            <mxRectangle height="91" width="269" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-407" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
-          <mxGeometry height="91" width="271" x="534" as="geometry">
-            <mxRectangle height="91" width="271" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-408" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
-          <mxGeometry height="91" width="303" x="805" as="geometry">
-            <mxRectangle height="91" width="303" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-409" parent="nd85jhhNl2mKpgz2wUEP-404" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="故障" vertex="1">
-          <mxGeometry height="91" width="269" x="1108" as="geometry">
-            <mxRectangle height="91" width="269" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-410" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="88" width="1376.9674359489886" y="457" as="geometry" />
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-411" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="88" width="265" as="geometry">
-            <mxRectangle height="88" width="265" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-412" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="旁路" vertex="1">
-          <mxGeometry height="88" width="269" x="265" as="geometry">
-            <mxRectangle height="88" width="269" as="alternateBounds" />
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-412" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;旁路&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;功率模块异常，主控发指令切到旁路&lt;br&gt;主动寿命均衡，主控发指令切到旁路&lt;/span&gt;" vertex="1">
+          <mxGeometry height="111" width="278" x="265" as="geometry">
+            <mxRectangle height="111" width="278" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-413" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="旁路" vertex="1">
-          <mxGeometry height="88" width="271" x="534" as="geometry">
-            <mxRectangle height="88" width="271" as="alternateBounds" />
+          <mxGeometry height="111" width="271" x="543" as="geometry">
+            <mxRectangle height="111" width="271" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-414" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="88" width="303" x="805" as="geometry">
-            <mxRectangle height="88" width="303" as="alternateBounds" />
+          <mxGeometry height="111" width="303" x="814" as="geometry">
+            <mxRectangle height="111" width="303" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-415" parent="nd85jhhNl2mKpgz2wUEP-410" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="88" width="269" x="1108" as="geometry">
-            <mxRectangle height="88" width="269" as="alternateBounds" />
+          <mxGeometry height="111" width="269" x="1117" as="geometry">
+            <mxRectangle height="111" width="269" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-416" parent="nd85jhhNl2mKpgz2wUEP-379" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="107" width="1376.9674359489886" y="545" as="geometry" />
+          <mxGeometry height="107" width="1386.4015682444847" y="609" as="geometry" />
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-417" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;u&gt;告警信息&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;内部有部分功率单元出现异常，处于旁路状态，需要检修时显示告警值，不作为状态出现&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="107" width="265" as="geometry">
@@ -13964,22 +13964,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-418" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="107" width="269" x="265" as="geometry">
-            <mxRectangle height="107" width="269" as="alternateBounds" />
+          <mxGeometry height="107" width="278" x="265" as="geometry">
+            <mxRectangle height="107" width="278" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-419" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="107" width="271" x="534" as="geometry">
+          <mxGeometry height="107" width="271" x="543" as="geometry">
             <mxRectangle height="107" width="271" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-420" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="107" width="303" x="805" as="geometry">
+          <mxGeometry height="107" width="303" x="814" as="geometry">
             <mxRectangle height="107" width="303" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd85jhhNl2mKpgz2wUEP-421" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
-          <mxGeometry height="107" width="269" x="1108" as="geometry">
+          <mxGeometry height="107" width="269" x="1117" as="geometry">
             <mxRectangle height="107" width="269" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
