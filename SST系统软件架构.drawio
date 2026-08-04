@@ -13963,7 +13963,7 @@
             <mxRectangle height="107" width="265" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nd85jhhNl2mKpgz2wUEP-418" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="" vertex="1">
+        <mxCell id="nd85jhhNl2mKpgz2wUEP-418" parent="nd85jhhNl2mKpgz2wUEP-416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=20;" value="&lt;u&gt;告警信息&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;内部有模块出现异常，处于旁路状态，需要检修时显示告警值，不作为状态出现&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="107" width="278" x="265" as="geometry">
             <mxRectangle height="107" width="278" as="alternateBounds" />
           </mxGeometry>
