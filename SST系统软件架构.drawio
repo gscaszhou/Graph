@@ -6611,7 +6611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uF3v4iJxBXBlNVmz3lUS" name="功率单元及状态分析">
-    <mxGraphModel dx="4653" dy="2427" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3890" dy="2020" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7263,6 +7263,12 @@
         </mxCell>
         <mxCell id="VkhH_WqK8jZOPVboEAw5-49" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/iot-devices/1/Assembly_Line.svg;direction=north;" value="" vertex="1">
           <mxGeometry height="40" width="39.01" x="2495.995" y="422.505" as="geometry" />
+        </mxCell>
+        <mxCell id="VkhH_WqK8jZOPVboEAw5-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;AC端口&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="148" x="2872" y="422.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VkhH_WqK8jZOPVboEAw5-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;DC端口&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="148" x="-95" y="418" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
