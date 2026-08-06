@@ -5805,6 +5805,9 @@
         <mxCell id="8uVKxummz5R6ewDv873E-86" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;接触器&lt;/span&gt;" vertex="1">
           <mxGeometry height="68" width="198" x="2327" y="1101" as="geometry" />
         </mxCell>
+        <mxCell id="8uVKxummz5R6ewDv873E-87" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;方案对比&lt;/span&gt;" vertex="1">
+          <mxGeometry height="68" width="198" x="2003" y="1289" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
