@@ -5061,15 +5061,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="旁路模块设计" id="eXVJPhoZODdtu4dOIPnK">
-    <mxGraphModel dx="909" dy="3097" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3053" dy="4027" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-0" />
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-1" parent="wvVzDy6rr2IuSbH8Ufla-0" />
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-3" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;固态断路器&lt;br&gt;旁路开关&lt;/font&gt;" vertex="1">
-          <mxGeometry height="57" width="198" x="849" y="-404.5" as="geometry" />
+          <mxGeometry height="57" width="198" x="49" y="817.5" as="geometry" />
         </mxCell>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-4" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="79" x="1057" y="-406" as="geometry" />
+          <mxGeometry height="60" width="79" x="257" y="816" as="geometry" />
         </mxCell>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-5" parent="wvVzDy6rr2IuSbH8Ufla-4" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;direction=south;rounded=0;strokeColor=light-dark(#000000,#FF9090);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
           <mxGeometry height="60" width="16" x="63" as="geometry" />
@@ -5118,7 +5118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-17" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="79" x="1237" y="-406" as="geometry" />
+          <mxGeometry height="60" width="79" x="437" y="816" as="geometry" />
         </mxCell>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-18" parent="wvVzDy6rr2IuSbH8Ufla-17" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=on;direction=south;" value="" vertex="1">
           <mxGeometry height="60" width="16" x="63" as="geometry" />
@@ -5171,7 +5171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-30" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;固态断路器&lt;br&gt;旁路开关&lt;/font&gt;" vertex="1">
-          <mxGeometry height="53" width="171" x="1339" y="-404.5" as="geometry" />
+          <mxGeometry height="53" width="171" x="539" y="817.5" as="geometry" />
         </mxCell>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-32" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
           <mxGeometry height="640" width="1969" x="632.5" y="-138" as="geometry" />
@@ -6316,6 +6316,12 @@
         </mxCell>
         <mxCell id="uVpFxmSLq5uSvgm26Oca-163" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;固态双向开关&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;MOSFET反串联&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="68" width="232" x="1608" y="988" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-164" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;旁路运行&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="149" x="350" y="-1772" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-165" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;正常运行&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="149" x="350" y="-946" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
