@@ -5061,7 +5061,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="旁路模块设计" id="eXVJPhoZODdtu4dOIPnK">
-    <mxGraphModel dx="3264" dy="4352" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="3097" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-0" />
         <mxCell id="wvVzDy6rr2IuSbH8Ufla-1" parent="wvVzDy6rr2IuSbH8Ufla-0" />
@@ -5524,93 +5524,8 @@
             <mxPoint x="1789" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="pointerEvents=1;fillColor=strokeColor;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.diodes.diode;direction=south;" value="" vertex="1">
-          <mxGeometry height="169" width="63" x="1447" y="602" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-1" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
-          <mxGeometry relative="1" width="80" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1367" y="756" as="sourcePoint" />
-            <mxPoint x="1476" y="722.16" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-10" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;fontSize=16;" value="&lt;b&gt;晶闸管 (Thyristor / SCR) 结构与符号图&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="380" x="785" y="774" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-11" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;opacity=50;" value="" vertex="1">
-          <mxGeometry height="340" width="320" x="625" y="854" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-12" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" value="&lt;b&gt;四层PNPN半导体结构&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="700" y="864" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-13" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;html=1;" value="P1" vertex="1">
-          <mxGeometry height="60" width="240" x="665" y="914" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-14" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;html=1;" value="N1" vertex="1">
-          <mxGeometry height="60" width="240" x="665" y="974" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-15" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;html=1;" value="P2" vertex="1">
-          <mxGeometry height="60" width="240" x="665" y="1034" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-16" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;html=1;" value="N2" vertex="1">
-          <mxGeometry height="60" width="240" x="665" y="1094" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-17" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" value="阳极 (Anode / A)" vertex="1">
-          <mxGeometry height="40" width="120" x="725" y="834" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-18" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" value="阴极 (Cathode / K)" vertex="1">
-          <mxGeometry height="40" width="120" x="725" y="1174" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-19" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" value="控制极 (Gate / G)" vertex="1">
-          <mxGeometry height="40" width="120" x="945" y="1044" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-20" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" source="8uVKxummz5R6ewDv873E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;" target="8uVKxummz5R6ewDv873E-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-21" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" source="8uVKxummz5R6ewDv873E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;" target="8uVKxummz5R6ewDv873E-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-22" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" source="8uVKxummz5R6ewDv873E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;" target="8uVKxummz5R6ewDv873E-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-23" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;opacity=50;" value="" vertex="1">
-          <mxGeometry height="340" width="300" x="1025" y="854" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-24" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" value="&lt;b&gt;电路图形符号&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="1120" y="864" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-26" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1175" y="934" as="sourcePoint" />
-            <mxPoint x="1175" y="954" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-27" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1175" y="1024" as="sourcePoint" />
-            <mxPoint x="1175" y="1044" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-28" edge="1" parent="wvVzDy6rr2IuSbH8Ufla-1" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1205" y="974" as="sourcePoint" />
-            <mxPoint x="1255" y="974" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-29" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;html=1;" value="A" vertex="1">
-          <mxGeometry height="30" width="30" x="1160" y="904" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-30" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;html=1;" value="K" vertex="1">
-          <mxGeometry height="30" width="30" x="1160" y="1044" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-31" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;html=1;" value="G" vertex="1">
-          <mxGeometry height="30" width="30" x="1255" y="959" as="geometry" />
-        </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-32" parent="wvVzDy6rr2IuSbH8Ufla-1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" value="&lt;b&gt;工作原理简述：&lt;/b&gt;&lt;br&gt;1. 阳极 A 接正电压，阴极 K 接负电压时，管子处于阻断状态。&lt;br&gt;2. 当控制极 G 注入触发电流时，晶闸管触发导通。&lt;br&gt;3. 一旦导通，控制极即失去作用，需切断阳极电源或使电流降至维持电流以下才能关断。" vertex="1">
-          <mxGeometry height="100" width="700" x="625" y="1234" as="geometry" />
-        </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-78" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
-          <mxGeometry height="218" width="162.5999999999999" x="1815" y="835" as="geometry" />
+          <mxGeometry height="218" width="162.5999999999999" x="966" y="717" as="geometry" />
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-53" connectable="0" parent="8uVKxummz5R6ewDv873E-78" style="group" value="" vertex="1">
           <mxGeometry height="128" width="162.5999999999999" y="45" as="geometry" />
@@ -5718,10 +5633,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-79" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
-          <mxGeometry height="216" width="86.09999999999991" x="2086" y="836" as="geometry" />
+          <mxGeometry height="216" width="99" x="1331" y="717" as="geometry" />
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-56" connectable="0" parent="8uVKxummz5R6ewDv873E-79" style="group;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="126" width="86.1" y="45" as="geometry" />
+          <mxGeometry height="126" width="99" y="45" as="geometry" />
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-57" connectable="0" parent="8uVKxummz5R6ewDv873E-56" style="group;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="52.5" width="63" as="geometry" />
@@ -5779,7 +5694,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-82" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
-          <mxGeometry height="217" width="30" x="2411" y="835" as="geometry" />
+          <mxGeometry height="217" width="30" x="2011" y="731" as="geometry" />
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-81" parent="8uVKxummz5R6ewDv873E-82" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.make_contact;direction=south;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="131" width="30" y="42" as="geometry" />
@@ -5797,16 +5712,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-83" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;STS&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;SCR反并联&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68" width="198" x="1797.3" y="1104" as="geometry" />
+          <mxGeometry height="68" width="198" x="925" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="8uVKxummz5R6ewDv873E-85" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;固态双向开关&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;IGBT反串联&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68" width="198" x="2037" y="1101" as="geometry" />
+        <mxCell id="8uVKxummz5R6ewDv873E-85" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;固态双向开关&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;IGBT+二极管反串联&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="106" width="198" x="1261" y="988" as="geometry" />
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-86" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;接触器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="68" width="198" x="2327" y="1101" as="geometry" />
+          <mxGeometry height="68" width="198" x="1927" y="997" as="geometry" />
         </mxCell>
         <mxCell id="8uVKxummz5R6ewDv873E-87" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;方案对比&lt;/span&gt;" vertex="1">
-          <mxGeometry height="68" width="198" x="2003" y="1289" as="geometry" />
+          <mxGeometry height="68" width="198" x="1355" y="1346" as="geometry" />
         </mxCell>
         <mxCell id="uVpFxmSLq5uSvgm26Oca-77" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
           <mxGeometry height="640" width="1969" x="657" y="-1251" as="geometry" />
@@ -6375,6 +6290,32 @@
         </mxCell>
         <mxCell id="uVpFxmSLq5uSvgm26Oca-138" parent="uVpFxmSLq5uSvgm26Oca-139" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=on;direction=south;strokeColor=#FF0000;" value="" vertex="1">
           <mxGeometry height="120.01" width="32" x="1783" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-162" connectable="0" parent="wvVzDy6rr2IuSbH8Ufla-1" style="group" value="" vertex="1">
+          <mxGeometry height="217" width="73" x="1676" y="708" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-145" edge="1" parent="uVpFxmSLq5uSvgm26Oca-162" source="uVpFxmSLq5uSvgm26Oca-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="36.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-141" parent="uVpFxmSLq5uSvgm26Oca-162" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n_body_diode;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="54.5" width="52" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-142" parent="uVpFxmSLq5uSvgm26Oca-162" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n_body_diode;direction=west;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="54.5" width="52" x="21" y="119" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-144" edge="1" parent="uVpFxmSLq5uSvgm26Oca-162" source="uVpFxmSLq5uSvgm26Oca-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" target="uVpFxmSLq5uSvgm26Oca-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-161" edge="1" parent="uVpFxmSLq5uSvgm26Oca-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="36" y="217" as="sourcePoint" />
+            <mxPoint x="36.5" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uVpFxmSLq5uSvgm26Oca-163" parent="wvVzDy6rr2IuSbH8Ufla-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;固态双向开关&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;MOSFET反串联&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68" width="232" x="1608" y="988" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
